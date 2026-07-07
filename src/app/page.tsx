@@ -88,15 +88,14 @@ export default function Home() {
       {/* Our Story */}
       <section className="bg-[#1F3B3B] text-[#EFE7DA] py-[96px]" id="story">
         <div className="container grid grid-cols-1 md:grid-cols-[0.9fr_1.1fr] gap-[70px] items-center">
-          <div className="relative aspect-square border-2 border-[#E7C784]/35 rounded-[6px] flex items-center justify-center" style={{
-            background: 'repeating-linear-gradient(45deg, rgba(231,199,132,.08) 0 14px, transparent 14px 30px), linear-gradient(160deg,#254646,#152a2a)'
-          }}>
-            <svg width="46%" viewBox="0 0 100 100" fill="none">
-              <circle cx="50" cy="50" r="34" stroke="#E7C784" strokeWidth="1.2"/>
-              <circle cx="50" cy="50" r="22" stroke="#E7C784" strokeWidth="1.2"/>
-              <path d="M50 16 L50 84 M16 50 L84 50" stroke="#E7C784" strokeWidth="1"/>
-            </svg>
-            <div className="absolute -bottom-[28px] left-1/2 -translate-x-1/2 flex bg-[#C08A28] rounded-[4px] overflow-hidden shadow-[0_20px_40px_-14px_rgba(0,0,0,0.4)]">
+          <div className="relative aspect-square border-2 border-[#E7C784]/35 rounded-[6px] flex items-center justify-center bg-[#152a2a]">
+            <Image 
+              src="/img/ourstory.jpeg" 
+              alt="Thikana Poshak Store" 
+              fill 
+              className="object-cover rounded-[4px]" 
+            />
+            <div className="absolute -bottom-[28px] left-1/2 -translate-x-1/2 flex bg-[#C08A28] rounded-[4px] overflow-hidden shadow-[0_20px_40px_-14px_rgba(0,0,0,0.4)] z-10">
               <div className="py-[18px] px-[26px] text-center border-r border-white/35">
                 <b className="block font-serif text-[24px] text-white">10+</b>
                 <span className="text-[10.5px] uppercase tracking-[0.08em] text-white">Yrs in Pali</span>
