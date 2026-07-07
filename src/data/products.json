@@ -1,0 +1,68 @@
+[
+  {
+    "id": "p1",
+    "name": "Royal Red Rajwadi Poshak",
+    "category": "poshak",
+    "images": [
+      "/img/poshak1.jpeg"
+    ],
+    "priceLabel": "Enquire for price",
+    "description": "Authentic red Rajwadi poshak with heavy zardosi work. Perfect for brides and festive occasions.",
+    "featured": true
+  },
+  {
+    "id": "p2",
+    "name": "Peacock Blue Silk Suit",
+    "category": "suit",
+    "images": [
+      "/img/poshak2.jpeg"
+    ],
+    "priceLabel": "Enquire for price",
+    "description": "Elegant silk suit with intricate gota patti embroidery on the neckline and dupatta.",
+    "featured": true
+  },
+  {
+    "id": "p3",
+    "name": "Golden Tissue Saree",
+    "category": "saree",
+    "images": [
+      "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?auto=format&fit=crop&q=80&w=800"
+    ],
+    "priceLabel": "Enquire for price",
+    "description": "Lightweight and shimmery tissue saree in golden hues with a contrasting red border.",
+    "featured": false
+  },
+  {
+    "id": "p4",
+    "name": "Magenta Zari Kurti",
+    "category": "kurti",
+    "images": [
+      "/img/poshak3.jpeg"
+    ],
+    "priceLabel": "Enquire for price",
+    "description": "Comfortable festive wear kurti with subtle zari motifs.",
+    "featured": true
+  },
+  {
+    "id": "p5",
+    "name": "Emerald Green Bridal Poshak",
+    "category": "poshak",
+    "images": [
+      "/img/poshak4.jpeg"
+    ],
+    "priceLabel": "Enquire for price",
+    "description": "Stunning bridal poshak featuring kundan work and traditional Rajasthani motifs.",
+    "featured": true
+  },
+  {
+    "id": "p6",
+    "name": "Pastel Pink Chiffon Saree",
+    "category": "saree",
+    "images": [
+      "https://images.unsplash.com/photo-1585465942732-b9e7dfc7bb61?auto=format&fit=crop&q=80&w=800"
+    ],
+    "priceLabel": "Enquire for price",
+    "description": "Soft chiffon saree with pearl embellishments and a delicate lace border.",
+    "featured": false
+  }
+]
